@@ -1,0 +1,7 @@
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csprojAssemblyReference.cache
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.CoreCompileInputs.cache
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.exe.config
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.exe
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\bin\Debug\LatihanConstructor.pdb
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.exe
+D:\18.11.2248\LatihanConstructor\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.pdb
